@@ -1,0 +1,33 @@
+.heading
+{
+    color: red;
+    margin-left: 45%;
+
+}
+#page
+{
+    background-color: greenyellow;
+    height: 1200px;
+    width: 1200;
+}
+#image1 img
+{
+    margin-top: 1.5%;
+    height: 400px;
+    width: 450;
+    float: left;
+    margin-left: 10%;
+}
+#image2 img
+{
+    margin-top: 1.5%;
+    height: 400px;
+    width: 500;
+    margin-left: 20%; 
+}
+#back
+{
+    margin-bottom: 50%;
+  
+    color: rgb(9, 232, 42);
+}

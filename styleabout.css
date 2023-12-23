@@ -1,0 +1,21 @@
+#heading
+{
+    height: 700px;
+    width: 100%; 
+    background-color: rgb(253, 253, 135);
+    float:left;
+ 
+    margin-right:10%;
+}
+.head
+{
+    margin-left: 40%;
+  color: red;
+}
+.body
+{
+    size: 25px;
+    color: rgb(11, 10, 10);
+    margin-left: 10%;
+    margin-right: 10%;
+}

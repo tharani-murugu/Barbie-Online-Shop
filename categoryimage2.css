@@ -1,0 +1,41 @@
+#image1 img
+{
+    
+    width: 300px;
+    height: 350px;
+
+   
+}
+#image3 img
+{
+    width: 300px;
+    height: 350px;
+    
+
+}
+.back ul li
+{
+    margin-top:1%;
+    margin-left: 80%;
+}
+#page
+{ 
+  
+    background-color: rgb(114, 247, 87);
+    height: 1200px;
+    width: 1500px;
+}
+.heading
+{
+    color: red;
+    margin-left: 35%;
+}
+.rate1
+{
+    color: rgb(20, 20, 20);
+
+}
+.rate2
+{
+    color: rgb(19, 18, 18);
+}

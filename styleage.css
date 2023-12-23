@@ -1,0 +1,33 @@
+.heading
+{
+    color: rgb(252, 246, 246);
+    margin-left: 43%;
+
+}
+#page
+{
+    background-color: rgb(247, 95, 219);
+    height: 1200px;
+    width: 1200;
+}
+#image1 img
+{
+    margin-top: 1.5%;
+    height: 400px;
+    width: 300;
+    float: left;
+    margin-left: 3%;
+}
+#image2 img
+{
+    margin-top: 1.5%;
+    height: 400px;
+    width: 300;
+    margin-left: 15%; 
+}
+#back
+{
+    margin-bottom: 50%;
+  
+    color: rgb(9, 232, 42);
+}
